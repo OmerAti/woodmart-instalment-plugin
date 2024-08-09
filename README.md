@@ -32,7 +32,7 @@ Woodmart teması ile uyumlu olarak çalışan bu eklenti, WooCommerce mağazanı
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü]([https://example.com/screenshot.png](https://github.com/OmerAti/woodmart-instalment-plugin/blob/main/screen.jpeg))
+![Ekran Görüntüsü]([[https://example.com/screenshot.png](https://github.com/OmerAti/woodmart-instalment-plugin/blob/main/screen.jpeg)](https://github.com/OmerAti/woodmart-instalment-plugin/blob/main/screen.jpeg))
 
 ## Lisans
 
